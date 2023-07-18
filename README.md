@@ -1,8 +1,12 @@
 ### Selamlar! 👋
 👨İsmim Yusuf.Uludağ Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.
+
 🌆Eskişehir'de yaşıyorum fakat okul dönemlerinde Bursa'da ikamet ediyorum.
+
 🚸Çocukluktan itibaren teknoloji aşığı olarak hayal ettiğim meslek üzerine çalışmaktan mutluluk duyuyorum :)
+
 👨‍💻Şu an Dart dili ve Flutter paketiyle ilgileniyorum fakat her dili biraz biraz öğrenmek istiyorum.
+
 ⚡Bana aklınıza gelen her türlü soru için Instagram hesabım üzerinden ulaşabilirsiniz!
 
 
