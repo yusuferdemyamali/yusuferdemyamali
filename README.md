@@ -14,6 +14,8 @@
 <p align="left">
 <a href="https://instagram.com/yusufyamal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufyamal1" height="30" width="40" /></a>
 </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
