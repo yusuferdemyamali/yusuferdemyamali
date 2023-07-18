@@ -9,8 +9,8 @@
 👨‍💻Şu an Dart dili ve Flutter paketiyle ilgileniyorum fakat her dili biraz biraz öğrenmek istiyorum.
 
 ⚡Bana aklınıza gelen her türlü soru için Instagram hesabım üzerinden ulaşabilirsiniz!
-**https://www.instagram.com/yusufyamal1/**
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Instagram hesabım:</h3>
 <p align="left">
 <a href="https://instagram.com/yusufyamal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufyamal1" height="30" width="40" /></a>
 </p>
