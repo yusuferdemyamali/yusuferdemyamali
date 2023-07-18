@@ -1,6 +1,11 @@
 
 <h1 align="center">Selam 👋, İsmim Yusuf</h1>
 <h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.</h3>
+- 🔭Şu anda **Dart ve Flutter üzerinde çalışıyorum**
+
+- Şu anda **JavaScript öğrenmeye çalışıyorum**
+
+- Bana İnstagram üzerinden ulaşabilirin **https://www.instagram.com/yusufyamal1/**
 
 🌆Eskişehir'de yaşıyorum fakat okul dönemlerinde Bursa'da ikamet ediyorum.
 
