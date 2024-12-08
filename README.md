@@ -1,10 +1,9 @@
 
-<h1 align="center">Selam 👋, İsmim Yusuf</h1>
+<h1 align="center">Selam, İsmim Yusuf</h1>
 <h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.</h3>
 
-<p align="center">🌆Eskişehir'de yaşıyorum fakat okul dönemlerinde Bursa'da ikamet ediyorum.</p>
-<p align="center">🚸Çocukluktan itibaren teknoloji aşığı olarak hayal ettiğim meslek üzerine çalışmaktan mutluluk duyuyorum :)</p>
-<p align="center">👨‍💻Şu an Dart dili ve Flutter paketiyle ilgileniyorum fakat her dili biraz biraz öğrenmek istiyorum.</p>
+<p align="center">🌆Eskişehir'de yaşıyorum.</p>
+<p align="center">👨‍💻Şu an PHP ve Laravel kütüphanesi üzerinde çalışıyorum.</p>
 <p align="center">⚡Bana aklınıza gelen her türlü soru için Instagram hesabım üzerinden ulaşabilirsiniz!</p>
   
 
