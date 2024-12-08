@@ -3,7 +3,6 @@
 <h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.</h3>
 
 <p align="center">🌆Eskişehir'de yaşıyorum.</p>
-<p align="center">👨‍💻Şu an PHP ve Laravel kütüphanesi üzerinde çalışıyorum.</p>
 <p align="center">⚡Bana aklınıza gelen her türlü soru için Instagram hesabım üzerinden ulaşabilirsiniz!</p>
   
 
