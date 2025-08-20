@@ -11,5 +11,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/yusuferdemyamali/yusuferdemyamali/blob/main/joker.gif?raw=true" width="auto">
+  <img src="https://github.com/yusuferdemyamali/yusuferdemyamali/blob/main/thom-yorke-radiohead.gif?raw=true" width="auto">
 <div>
