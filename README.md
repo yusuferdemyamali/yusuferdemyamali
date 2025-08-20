@@ -1,8 +1,8 @@
 
 <h1 align="center">Selam, İsmim Yusuf</h1>
-<h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.</h3>
+<h3 align="center">BackEnd geliştiricisiyim.</h3>
 
-<p align="center">🌆Eskişehir'de yaşıyorum.</p>
+<p align="center">Eskişehir'de yaşıyorum. Bursa Uludağ Üniversitesi YBS mezunuyum.</p>
 <p align="center">⚡Kişisel web sitemi aşağıdaki linkten inceleyebilirsiniz!</p>
 <p align="center">
 <a href="https://yusufyamali.me" target="blank"><img align="center"/>yusufyamali.me</a>
