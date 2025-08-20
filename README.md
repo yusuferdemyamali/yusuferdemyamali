@@ -1,15 +1,15 @@
 
 <h1 align="center">Selam, İsmim Yusuf</h1>
-<h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.</h3>
+<h3 align="center">Uludağ Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.</h3>
 
 <p align="center">🌆Eskişehir'de yaşıyorum.</p>
-<p align="center">⚡Bana aklınıza gelen her türlü soru için Instagram hesabım üzerinden ulaşabilirsiniz!</p>
+<p align="center">⚡Kişisel web sitemi aşağıdaki linkten inceleyebilirsiniz!</p>
+<p align="center">
+<a href="https://yusufyamali.me" target="blank"><img align="center"/>yusufyamali.me</a>
+</p>
   
 
-<h3 align="center">Instagram hesabım:</h3>
-<p align="center">
-<a href="https://instagram.com/yusufyamal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufyamal1" height="30" width="40" /></a>
-</p>
+
 <div align="center">
   <img src="https://github.com/yusuferdemyamali/yusuferdemyamali/blob/main/joker.gif?raw=true" width="auto">
 <div>
