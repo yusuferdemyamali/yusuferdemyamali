@@ -1,15 +1,34 @@
+# Hi there, I'm Yusuf 👋
 
-<h1 align="center">Selam, İsmim Yusuf</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+### A Full Stack Web Developer
 
-<p align="center">Eskişehir'de yaşıyorum. Bursa Uludağ Üniversitesi YBS mezunuyum.</p>
-<p align="center">Kişisel web sitemi aşağıdaki linkten inceleyebilirsiniz!</p>
-<p align="center">
-<a href="https://yusufyamali.me" target="blank"><img align="center"/>yusufyamali.me</a>
-</p>
-  
+I'm a graduate of Management Information Systems (MIS) from Bursa Uludağ University and a software developer based in Eskişehir, Turkey. I focus on building modern and user-friendly web applications using both front-end and back-end technologies.
 
+---
+
+### ✨ Skills & Expertise
+
+* **Languages:** Php, Python, C#, JavaScript, Dart
+* **Frameworks:** Laravel, Flutter, ASP.NET, 
+* **Databases:** MySQL, MongoDB
+* **DevOps/Tools:** Docker, Git, CI/CD, 
+* **Cloud:** DigitalOcean, CyberPanel, Plesk
+
+---
+
+### 💻 My Projects
+
+Don't forget to check out my active repos.
+
+---
+
+### 🌐 Connect With Me
+
+* **My Website:** [yusufyamali.me](https://yusufyamali.me)
+* **LinkedIn:** [linkedin.com/in/yusufyamalı](https://linkedin.com/in/yusufyamalı)
+
+---
 
 <div align="center">
-  <img src="https://github.com/yusuferdemyamali/yusuferdemyamali/blob/main/thom-yorke-radiohead.gif?raw=true" width="auto">
-<div>
+  <img src="https://github.com/yusuferdemyamali/yusuferdemyamali/blob/main/thom-yorke-radiohead.gif?raw=true" alt="Thom Yorke Gif" width="auto">
+</div>
